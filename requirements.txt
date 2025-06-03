@@ -1,0 +1,6 @@
+scrapy
+gspread
+oauth2client
+pandas
+scrapeops_scrapy_proxy_sdk
+openpyxl
